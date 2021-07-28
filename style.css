@@ -5,3 +5,21 @@
 .gray-img{
     filter: grayscale(100%);
 }
+
+.btn-bg{
+    background-color: #E76F51;
+}
+.span-color{
+    color: #E76F51;
+}
+.star-color{
+    color: #E76F51;
+}
+.star{
+    text-align: center;
+}
+.card img{
+    width: 149px;
+    height: 149px;
+    margin: auto;
+}
