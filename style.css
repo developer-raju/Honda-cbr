@@ -1,0 +1,7 @@
+/* custom css  */
+.header-bg{
+    background-color: #264653;
+}
+.gray-img{
+    filter: grayscale(100%);
+}
